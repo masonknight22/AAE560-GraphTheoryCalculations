@@ -1,7 +1,7 @@
 # AAE560-NetworkTheoryCalculations
 Compute various network calculations
 
-The following calculations can be computed from these files:
+The following calculations can be computed for a network through an adjacency matrix from these files:
 - Degree
 - Degree Centrality
 - Degree Correlation
