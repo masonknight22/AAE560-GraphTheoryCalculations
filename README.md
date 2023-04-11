@@ -1,6 +1,7 @@
 # AAE560-NetworkTheoryCalculations
 Compute various network calculations
-Here are some example plots for degree distribution and culmulative degree distribution. The following calculations can be computed:
+
+The following calculations can be computed from these files:
 - Degree
 - Degree Centrality
 - Degree Correlation
@@ -31,5 +32,6 @@ The probability of a new node being added to a network is based on the calculati
 
 ![](newnode.png)
 
+Here is the plot for degree distribution and culmulative degree distribution:
 ![](degreedist.PNG)
 ![](culmdegreedist.PNG)
