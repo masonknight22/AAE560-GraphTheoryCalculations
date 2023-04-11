@@ -12,13 +12,7 @@ Here are some example plots for degree distribution and culmulative degree distr
 Here is an example for the following network:
 ![](exnetwork.png)
 The matrix is as follows:
-adjacencymatrix1 = [
-    0 1 1 0 0;
-    1 0 1 1 0; 
-    1 1 0 1 1;
-    0 1 1 0 1;
-    0 0 1 1 0;
-];
+![](adjmatrix.png)
 The degree is
 ![](degree.png)
 Clustering Coefficient calculated as follows:
