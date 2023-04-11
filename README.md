@@ -30,5 +30,6 @@ The probability of a new node being added to a network is based on the calculati
 ![](baform.png)
 
 ![](newnode.png)
+
 ![](degreedist.PNG)
 ![](culmdegreedist.PNG)
