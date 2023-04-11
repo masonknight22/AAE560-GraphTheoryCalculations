@@ -8,5 +8,23 @@ Here are some example plots for degree distribution and culmulative degree distr
 - Degree Distribution
 - Culmulative Degree Distribution
 - Barabasi-Albert Growth for new node for one connection to the highest probability
+
+Here is an example for the following network:
+![](exnetwork.png)
+The matrix is as follows:
+adjacencymatrix1 = [
+    0 1 1 0 0;
+    1 0 1 1 0; 
+    1 1 0 1 1;
+    0 1 1 0 1;
+    0 0 1 1 0;
+];
+The degree is
+![](degree.png)
+Clustering Coefficient calculated as follows:
+![](cc.png)
+The probability of a new node being added to a network is based on the calculation for each node using the Barabasi-Albert formula:
+![](baform.png)
+![](newnode.png)
 ![](degreedist.PNG)
 ![](culmdegreedist.PNG)
