@@ -21,13 +21,14 @@ The degree is
 
 ![](degree.png)
 
-Clustering Coefficient calculated as follows:
+Clustering Coefficient for each node is calculated as follows:
 
 ![](cc.png)
 
 The probability of a new node being added to a network is based on the calculation for each node using the Barabasi-Albert formula:
 
 ![](baform.png)
+
 ![](newnode.png)
 ![](degreedist.PNG)
 ![](culmdegreedist.PNG)
