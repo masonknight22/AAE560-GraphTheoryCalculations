@@ -1,4 +1,4 @@
-# AAE560-NetworkTheoryCalculations
+# AAE560-GraphTheoryCalculations
 Compute various network calculations
 
 The following calculations can be computed for a network through an adjacency matrix from these files: 
